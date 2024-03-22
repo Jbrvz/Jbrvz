@@ -7,7 +7,7 @@ I am currently enrolled at ASU in pursuit of a degree in Graphic Information Tec
 
 
 Connect with me on:
-- [Linkedin]([www.linkedin.com/in/jbrvz](https://www.linkedin.com/in/jbrvz/))
-- [Behance]((https://www.behance.net/Jbrzzs)https://www.behance.net/Jbrzzs)
+- [Linkedin](https://www.linkedin.com/in/jbrvz/)
+- [Behance](https://www.behance.net/Jbrzzs)
 
 
