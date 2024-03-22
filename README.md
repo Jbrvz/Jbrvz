@@ -10,4 +10,6 @@ Connect with me on:
 - [Linkedin](https://www.linkedin.com/in/jbrvz/)
 - [Behance](https://www.behance.net/Jbrzzs)
 
+![Jbrvz's Stats](https://github-readme-stats.vercel.app/api?username=Jbrvz&theme=gotham&show_icons=true&hide_border=true&count_private=true)
+
 
