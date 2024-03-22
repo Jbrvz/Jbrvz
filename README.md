@@ -11,5 +11,6 @@ Connect with me on:
 - [Behance](https://www.behance.net/Jbrzzs)
 
 ![Jbrvz's Stats](https://github-readme-stats.vercel.app/api?username=Jbrvz&theme=gotham&show_icons=true&hide_border=true&count_private=true)
+![Jbrvz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jbrvz&theme=gotham&hide_border=true)
 
 
